@@ -27,6 +27,11 @@ public:
 
 public:
     int find();
+    int delete_file();
+    int paste();
+    int copy();
+    int select_all();
+
 
 };
 
